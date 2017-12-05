@@ -1,0 +1,52 @@
+.Image1{
+position: absolute;
+clear: none;
+height: 600px;
+width: 600px;
+z-index: 100;
+bottom: 0px;
+left: 310px;
+}
+.CBimage{
+width: 945px;
+height: 708.5px;
+position: absolute;
+z-index: 1;
+clear:none;
+top: -50px;
+left: 170px;
+}
+
+#rectangle1{
+  width: 100px;
+  height: 25px;
+  background-color:white;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #cccccc;
+  position: absolute;
+  z-index: 1;
+  color: black;
+  top: 366px;
+  left: 622px;
+}
+
+a { color: inherit; }
+a:hover {
+    color: #808080;
+}
+a:active{
+  color: #808080;
+}
+
+
+.Welcome{
+  color: #bfbfbf;
+  z-index: 3;
+  position: absolute;
+  clear: none;
+  font-size: 20px;
+  top: 350px;
+  font-family: Garamond;
+  left: 640px;
+}

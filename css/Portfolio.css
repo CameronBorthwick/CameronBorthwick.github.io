@@ -1,0 +1,29 @@
+.Image1{
+  position: absolute;
+  clear: none;
+  height: 345.6px;
+  width: 230.4px;
+  z-index: 100;
+  top: 175px;
+  left: 300px;
+}
+
+.Image2{
+  position: absolute;
+  clear: none;
+  height: 345.6px;
+  width: 230.4px;
+  z-index: 100;
+  top: 175px;
+  left: 650px;
+}
+
+.Image3{
+  position: absolute;
+  clear: none;
+  height: 345.6px;
+  width: 230.4px;
+  z-index: 100;
+  top: 175px;
+  left: 1000px;
+}

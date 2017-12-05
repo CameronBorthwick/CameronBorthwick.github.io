@@ -1,0 +1,84 @@
+  /*  Rectangle */
+  #rectangle{
+   position: absolute;
+   width: 200px;
+   height:707px;
+   background-color: white;
+   z-index: 1;
+   top: 0px;
+   left: 0px;
+  border-right-color: #e6e6e6;
+  border-right-width: thin;
+  border-right-style: solid;
+ }
+
+ /* rectangle */
+  /*  CB */
+ .B {
+     color: black;
+     z-index: 2;
+     position: absolute;
+     clear: none;
+     font-size: 30px;
+     top: 3px;
+     font-family: Garamond;
+     left: 65px;
+   }
+
+
+   .C{
+   color: black;
+   z-index: 2;
+   position: absolute;
+   clear: none;
+   font-size: 30px;
+   top: -4.5px;
+   font-family: Garamond;
+   left: 50px;
+
+   }
+
+    /* CB  */
+     /* Home/Portfolio/Contact  */
+
+a { color: inherit; }
+a:hover {
+    color: black;
+}
+a:active{
+  color:black;
+}
+   .Home{
+     color: grey;
+     z-index: 300;
+     position: absolute;
+     clear: none;
+     font-size: 17px;
+     top: 100px;
+     font-family: Garamond;
+     left: 30px;
+   }
+   .Portfolio{
+     color: grey;
+     z-index: 300;
+     position: absolute;
+     clear: none;
+     font-size: 17px;
+     top: 140px;
+     font-family: Garamond;
+     left: 30px;
+   }
+
+
+   .Contact{
+     color: grey;
+     z-index: 300;
+     position: absolute;
+     clear: none;
+     font-size: 17px;
+     top: 180px;
+     font-family: Garamond;
+     left: 30px;
+   }
+
+    /* Home/Portfolio/Contact   */

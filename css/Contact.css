@@ -1,0 +1,73 @@
+.please{
+  color: grey;
+  z-index: 300;
+  position: absolute;
+  clear: none;
+  font-size: 25px;
+  top: 100px;
+  font-family: Garamond;
+  left: 400px;
+}
+
+.Emailus{
+  color: grey;
+  z-index: 300;
+  position: absolute;
+  clear: none;
+  font-size: 20px;
+  top: 160px;
+  font-family: Garamond;
+  left: 405px;
+}
+.Name{
+  color: grey;
+  z-index: 300;
+  position: absolute;
+  clear: none;
+  font-size: 17px;
+  top: 240px;
+  font-family: Garamond;
+  left: 405px;
+}
+.Number{
+  color: grey;
+  z-index: 300;
+  position: absolute;
+  clear: none;
+  font-size: 17px;
+  top: 340px;
+  font-family: Garamond;
+  left: 405px;
+}
+.Message{
+  color: grey;
+  z-index: 300;
+  position: absolute;
+  clear: none;
+  font-size: 17px;
+  top: 440px;
+  font-family: Garamond;
+  left: 405px;
+}
+
+.Phone{
+  color: grey;
+  z-index: 300;
+  position: absolute;
+  clear: none;
+  font-size: 17px;
+  top: 540px;
+  font-family: Garamond;
+  left: 400px;
+}
+
+.Email{
+  color: grey;
+  z-index: 300;
+  position: absolute;
+  clear: none;
+  font-size: 17px;
+  top: 560px;
+  font-family: Garamond;
+  left: 400px;
+}
