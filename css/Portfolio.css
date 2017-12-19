@@ -5,7 +5,7 @@
   width: 230.4px;
   z-index: 100;
   top: 175px;
-  left: 300px;
+  left: 310px;
 }
 
 .Image2{
@@ -15,7 +15,7 @@
   width: 230.4px;
   z-index: 100;
   top: 175px;
-  left: 650px;
+  left: 545px;
 }
 
 .Image3{
@@ -25,5 +25,14 @@
   width: 230.4px;
   z-index: 100;
   top: 175px;
-  left: 1000px;
+  left: 780px;
+}
+.Image4{
+  position: absolute;
+  clear: none;
+  height: 345.6px;
+  width: 230.4px;
+  z-index: 100;
+  top: 175px;
+  left: 1015px;
 }

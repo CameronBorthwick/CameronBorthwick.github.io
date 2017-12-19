@@ -50,16 +50,7 @@
   left: 405px;
 }
 
-.Phone{
-  color: grey;
-  z-index: 300;
-  position: absolute;
-  clear: none;
-  font-size: 17px;
-  top: 540px;
-  font-family: Garamond;
-  left: 400px;
-}
+
 
 .Email{
   color: grey;
@@ -67,7 +58,7 @@
   position: absolute;
   clear: none;
   font-size: 17px;
-  top: 560px;
+  top: 540px;
   font-family: Garamond;
   left: 400px;
 }
