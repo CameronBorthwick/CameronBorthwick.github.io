@@ -22,7 +22,7 @@
      font-size: 30px;
      top: 3px;
      font-family: Garamond;
-     left: 65px;
+     left: 85px;
    }
 
 
@@ -34,11 +34,24 @@
    font-size: 30px;
    top: -4.5px;
    font-family: Garamond;
-   left: 50px;
+   left: 70px;
 
    }
 
-    /* CB  */
+.Photography{
+  color: #404040;
+  z-index: 300;
+  position: absolute;
+  clear: none;
+  font-size: 17px;
+  top: 45px;
+  font-family: Garamond;
+  left: 55px;
+}
+
+
+
+    /* CB and photography  */
      /* Home/Portfolio/Contact  */
 
 a { color: inherit; }
@@ -54,7 +67,19 @@ a:active{
      position: absolute;
      clear: none;
      font-size: 17px;
-     top: 100px;
+     top: 120px;
+     font-family: Garamond;
+     left: 30px;
+   }
+
+
+   .About{
+     color: grey;
+     z-index: 300;
+     position: absolute;
+     clear: none;
+     font-size: 17px;
+     top: 160px;
      font-family: Garamond;
      left: 30px;
    }
@@ -64,11 +89,10 @@ a:active{
      position: absolute;
      clear: none;
      font-size: 17px;
-     top: 140px;
+     top: 200px;
      font-family: Garamond;
      left: 30px;
    }
-
 
    .Contact{
      color: grey;
@@ -76,7 +100,7 @@ a:active{
      position: absolute;
      clear: none;
      font-size: 17px;
-     top: 180px;
+     top: 240px;
      font-family: Garamond;
      left: 30px;
    }

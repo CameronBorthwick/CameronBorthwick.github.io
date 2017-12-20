@@ -1,0 +1,21 @@
+.About1{
+  color: grey;
+  z-index: 300;
+  position: absolute;
+  clear: none;
+  font-size: 25px;
+  top: 100px;
+  font-family: Garamond;
+  left: 400px;
+}
+
+.Aboutpg{
+  color: grey;
+  z-index: 300;
+  position: absolute;
+  clear: none;
+  font-size: 17.5px;
+  top: 160px;
+  font-family: Garamond;
+  left: 402.5px;
+}
