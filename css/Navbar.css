@@ -49,7 +49,15 @@
   left: 55px;
 }
 
-
+.Instagramlogo{
+  background-image: url(images/logo.png);
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  z-index: 300;
+  top: 20px;
+  right: 40px;
+}
 
     /* CB and photography  */
      /* Home/Portfolio/Contact  */
